@@ -4,4 +4,4 @@ This repository contains the implementation of the Solidity smart contract respo
 
 See https://github.com/FrancescoMucci/VeriOSS-project for other repositories related to the **VeriOSS smart contract development** project.
 
-For further information regarding the VeriOSS project, please refer to the official page: https://lillo.github.io/verioss/
+For further information regarding the VeriOSS project, please refer to the official page: https://lillo.github.io/verioss/.
